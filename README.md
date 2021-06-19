@@ -21,23 +21,22 @@ This code provides a minimal use of Eclipse Paho MQTT Python client library as S
 - Open Python command prompt
 - Change the variable before executing the code
 
-```python
-broker_address = "broker.emqx.io"
-port = 1883
-topic = "same/topic"
-```
+  ```python
+  broker_address = "broker.emqx.io"
+  port = 1883
+  topic = "same/topic"
+  ```
 
 - Exce code
 
-```console
-python3 mqtt_sub_simple.py
-```
+  ```console
+  python3 mqtt_sub_simple.py
+  ```
+  or
 
-or
-
-```console
-python mqtt_sub_simple.py
-```
+  ```console
+  python mqtt_sub_simple.py
+  ```
 
 <!-- ## Help
 
