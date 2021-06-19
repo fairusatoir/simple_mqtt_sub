@@ -29,7 +29,7 @@ topic = "same/topic"
 
 - Exce code
 
-```bash
+```console
 python3 mqtt_sub_simple.py
 ```
 
